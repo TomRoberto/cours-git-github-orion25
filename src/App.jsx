@@ -1,8 +1,10 @@
 import "./App.css";
+import Header from "./components/Header";
 
 function App() {
   return (
     <>
+      <Header />
       <h1>Mon titre</h1>
       <h2>Le sous-titre</h2>
       <p>Bonjour</p>
