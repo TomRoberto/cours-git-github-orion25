@@ -5,7 +5,7 @@ function App() {
     <>
       <h1>Mon titre</h1>
       <h2>Le sous-titre</h2>
-      <p>azertyuiop</p>
+      <p>Bonjour</p>
       <ul>
         <li>JS</li>
         <li>BACKEND</li>
