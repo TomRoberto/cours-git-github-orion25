@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <h1>Mon titre</h1>
+      <h2>Le sous-titre</h2>
       <p>coucou</p>
       <ul>
         <li>JS</li>
