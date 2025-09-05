@@ -9,6 +9,7 @@ function App() {
         <li>JS</li>
         <li>BACKEND</li>
         <li>REACT</li>
+        <li>INTEGRATION</li>
       </ul>
     </>
   );
