@@ -11,6 +11,13 @@ function App() {
         <li>REACT</li>
         <li>INTEGRATION</li>
       </ul>
+      <section>
+        <div>
+          <p
+            style={{ height: "200px", width: "200px", backgroundColor: "red" }}
+          ></p>
+        </div>
+      </section>
     </>
   );
 }
